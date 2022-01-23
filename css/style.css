@@ -12,3 +12,8 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.carousel-caption h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 32;
+    font-weight: 700;
+}
