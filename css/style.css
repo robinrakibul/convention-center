@@ -32,3 +32,8 @@ body{
     border-radius: 26px;
     box-shadow: 0px 20px 40px 0px rgba(63, 135, 245, 0.25);
 }
+
+/* Footer */
+footer{
+    height: 200px;
+}
